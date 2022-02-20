@@ -1,0 +1,8 @@
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\bin\Debug\FinanceSoft_console.exe.config
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\bin\Debug\FinanceSoft_console.exe
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\bin\Debug\FinanceSoft_console.pdb
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\obj\Debug\FinanceSoft_console.csproj.AssemblyReference.cache
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\obj\Debug\FinanceSoft_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\obj\Debug\FinanceSoft_console.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\obj\Debug\FinanceSoft_console.exe
+C:\Users\V\Desktop\FinanceSoft_console\FinanceSoft_console\obj\Debug\FinanceSoft_console.pdb
